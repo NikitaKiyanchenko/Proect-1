@@ -1,0 +1,27 @@
+.s2{
+    background-color: yellowgreen
+}
+body{
+    background-image: url(1.jpg);
+}
+a{
+    text-decoration:none;
+    color:red;
+
+    
+}
+a:hover{
+    background-color: yellowgreen;
+}
+.q{
+    background-color: #a2e600;
+    width: 40%;
+}
+.s{
+    background-color: #dcff00;
+    width:30%;
+}
+.s1{
+    background-color: yellow; 
+    width:35%;
+}
