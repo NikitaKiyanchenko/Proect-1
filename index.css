@@ -12,16 +12,17 @@ a{
 }
 a:hover{
     background-color: yellowgreen;
+    border:1px solid white;
 }
 .q{
-    background-color: #a2e600;
+    background-color: yellowgreen;
     width: 40%;
 }
 .s{
-    background-color: #dcff00;
+    background-color:yellowgreen ;
     width:30%;
 }
 .s1{
-    background-color: yellow; 
+    background-color: yellowgreenyellow; 
     width:35%;
 }
